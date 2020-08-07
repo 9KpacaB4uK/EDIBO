@@ -14,7 +14,8 @@ EDIBO projekta elektroniskā klade
   - **..** - one folder back.
 - **mkdir** - create new folder.
 - **rmdir** - remove empty folder.
-- **rm** - to delete a directory containing files.
+- **rm** - remove files.
+  - **-r** - to delete a directory containing files.
 - **man or --help** - get information about a command.
 - **cp** - copy file.
 - **echo** - helps to get outputs to the screen or file.
