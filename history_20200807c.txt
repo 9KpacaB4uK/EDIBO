@@ -1,0 +1,121 @@
+    1  VirtualBox --startvm XP
+    2  quartus
+    3  firefox &
+    4  git clone https://github.com/9KpacaB4uK/EDIBO
+    5  pwd
+    6  ls
+    7  cd EDIBO
+    8  git status
+    9  ls
+   10  nano mans_pirmas_skripts.sh
+   11  nano mans_pirmais_skripts.sh
+   12  ls -l
+   13  chmod 744 mans_pirmais_skripts.sh
+   14  ls -l
+   15  ls -la
+   16  ./mans_pirmais_skripts.sh 
+   17  cd ..
+   18  ls
+   19  cd EDIBO
+   20  ls
+   21  ls ABC
+   22  cd ABC
+   23  ls
+   24  cd ..
+   25  nano mans_pirmais_skripts.sh
+   26  ls
+   27  rmdir ABC
+   28  ls
+   29  rm a.txt
+   30  ls
+   31  pwd
+   32  ./mans_pirmais.skripts.sh
+   33  ls
+   34  pwd
+   35  nano mans_pirmais_skripts.sh 
+   36  chmod -x firstscript.sh
+   37  chmod firstscript.sh
+   38  chmod --help
+   39  ls
+   40  chmod +x first.sh
+   41  touch first.sh
+   42  ls
+   43  chmod -x first.sh 
+   44  nano first.sh 
+   45  ./first
+   46  ls
+   47  chmod -x first.sh 
+   48  ls
+   49  ./mans_pirmais_skripts.sh 
+   50  ls
+   51  cd ABC
+   52  ls
+   53  cd ..
+   54  rm -r ABC
+   55  ls
+   56  nano mans_pirmais_skripts.sh 
+   57  rm -r a.txt
+   58  ls
+   59  ls -l
+   60  rm -r first.sh 
+   61  ls -l
+   62  nano mans_pirmais_skripts.sh 
+   63  ./mans_pirmais_skripts.sh 
+   64  nano mans_pirmais_skripts.sh 
+   65  ./mans_pirmais_skripts.sh 
+   66  rm -r ABC
+   67  ls -l
+   68  rm a.txt
+   69  rm -r def
+   70  ./mans_pirmais_skripts.sh 
+   71  ls
+   72  lclear
+   73  clear
+   74  ls -l
+   75  man
+   76  0
+   77  echo $PATH
+   78  $PATH =~/
+   79  $PATH =~/EDIBO
+   80  PATH =$PATH:~/EDIBO
+   81  $PATH=~/home/user/EDIBO
+   82  $PATH=/home/user/EDIBO
+   83  clear
+   84  $PATH
+   85  clear
+   86  PATH=~EDIBO
+   87  $PATH
+   88  ls
+   89  clear
+   90  ls
+   91  whereis ls
+   92  ls /bin/ls
+   93  ls -l /bin/ls
+   94  ls -l
+   95  ls -l /bin
+   96  clear
+   97  ls -l /bin/ls
+   98  /home/user/EDIBO/README.md
+   99  chmod 764 README.md
+  100  ls - l
+  101  ls -l
+  102  /home/user/EDIBO/README.md
+  103  /bin/ls
+  104  ls
+  105  cat /bin/ls
+  106  clear
+  107  -ls lt
+  108  ls -lt
+  109  clear
+  110  ls -lt
+  111  chmod 644 README.md
+  112  ls -lt
+  113  pwd
+  114  ls
+  115  ls /home/user/EDIBO/
+  116  history
+  117  pwd
+  118  cd EDIBO
+  119  hisroty
+  120  history
+  121  history > history_20200807c.txt
