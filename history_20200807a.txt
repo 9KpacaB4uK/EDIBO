@@ -1,0 +1,128 @@
+    1  VirtualBox --startvm XP
+    2  quartus
+    3  q
+    4  firefox
+    5  l
+    6  clear
+    7  stop
+    8  firefox
+    9  history
+   10  clear
+   11  sh
+   12  ls
+   13  sh
+   14  echo $0
+   15  last
+   16  pwd
+   17  list
+   18  ls
+   19  clear
+   20  ls
+   21  ls -a -l
+   22  la -l
+   23  clear
+   24  -lt
+   25  ls -tl
+   26  cd Desktop/
+   27  pwd
+   28  cd
+   29  cd Desktop/
+   30  clear
+   31  pwd
+   32  ls
+   33  cd /home
+   34  pwd
+   35  cd
+   36  cd Desktop/
+   37  pwd
+   38  cd ../home
+   39  cd ..home
+   40  cd ../../..
+   41  pwd
+   42  cd
+   43  pwd
+   44  tree
+   45  clear
+   46  tree --help
+   47  clear
+   48  tree -a
+   49  tree -l
+   50  clear
+   51  pwd
+   52  tree -l3
+   53  tree -l 3
+   54  tree --help
+   55  man tree
+   56  clear
+   57  tree R
+   58  pwd
+   59  tree R 2
+   60  tree
+   61  clear
+   62  tree R 2
+   63  man tree
+   64  clear
+   65  -tree -C
+   66  tree -C
+   67  clear
+   68  tree -d
+   69  clear
+   70  ls
+   71  ls -a
+   72  ls --help
+   73  clear
+   74  pwd
+   75  mkdir dev
+   76  ls
+   77  cd dev
+   78  echo 123 > a.txt
+   79  ls
+   80  cat a.txt
+   81  cal
+   82  date
+   83  clearf
+   84  clear
+   85  ls
+   86  cd ..
+   87  pwd
+   88  ls
+   89  rm dev
+   90  rm -r dev
+   91  ls
+   92  mkdir dev
+   93  ls
+   94  rm dev
+   95  ls
+   96  cd dev
+   97  echo a > a.txt
+   98  ls
+   99  cd ..
+  100  cd dev
+  101  rm a.txt
+  102  ls
+  103  cd ..
+  104  ls
+  105  rm -r dev
+  106  ls
+  107  clear
+  108  ls -l
+  109  git clone https://github.com/9KpacaB4uK/EDIBO
+  110  ls
+  111  cd EDIBO
+  112  ls
+  113  cat README.md
+  114  -lta
+  115  ls -lta
+  116  tree
+  117  clear
+  118  cat README.md 
+  119  clear
+  120  hexdump README.md 
+  121  -C hexdump README.md 
+  122  hexdump -C README.md 
+  123  clear
+  124  nano README.md 
+  125  tail README.md 
+  126  clear
+  127  history
+  128  history > history_20200807a.txt

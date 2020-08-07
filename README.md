@@ -27,6 +27,9 @@ EDIBO projekta elektroniskā klade
 - **wc** - output count of lines,words,characters.
 - **more** - is a command to view (but not modify) the contents of a text file one screen at a time.
 - **tree** - get tree of directories.
+- **hexdump** - get hex code of text.
+  - **-C** - hex code+ASCII.
+  - **ASCII(not command)** - http://www.asciitable.com/ .
 #### Git: 
 
 * *comming soon...* *
