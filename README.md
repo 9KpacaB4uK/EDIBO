@@ -32,4 +32,9 @@ EDIBO projekta elektroniskā klade
   - **ASCII(not command)** - http://www.asciitable.com/ .
 #### Git: 
 
-* *comming soon...* *
+- **git clone** -
+- **git config** -
+- **git add** -
+- **git commit** -
+- **git push** -
+- **git pull** - 
