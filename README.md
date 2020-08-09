@@ -32,9 +32,11 @@ EDIBO projekta elektroniskā klade
   - **ASCII(not command)** - http://www.asciitable.com/ .
 #### Git: 
 
-- **git clone** -
-- **git config** -
-- **git add** -
-- **git commit** -
-- **git push** -
-- **git pull** - 
+- **git clone** - copy repository from github to pc(local) * *(git clone https://github.com/9KpacaB4uK/EDIBO)* *.
+- **git config** - set information about author * *(git config --global user.email example@example.com)* *.
+- **git add** - add files for commit.
+- **git commit** - save added files to the local repository.* *(git commit "example text")* *.
+- **git push** - send commits to the git. * *(git push origin master)* *.
+- **git fetch** - really only downloads new data from a remote repository - but it doesn't integrate any of this new data into your working files.
+- **git pull** - in contrast, is used with a different goal in mind: to update your current HEAD branch with the latest changes from the remote server. This means that pull not only downloads new data; it also directly integrates it into your current working copy files.
+ 
