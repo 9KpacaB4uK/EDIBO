@@ -1,5 +1,8 @@
 #!/bin/bash
+echo "!git-upload start!"
 git config --global user.email sanja81000@gmail.com
 git add .
-git commit -m "20200807_16:23"
+read -p "Write commit here: " commit
+git commit -m "$commit"
 git push origin master
+echo "!git-upload done!"
