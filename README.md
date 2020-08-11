@@ -42,7 +42,6 @@ EDIBO projekta elektroniskā klade
  ## Day 03 - Day 08
  ### Topics:
  - BASH
- 
    - core programming concepts: loops, conditionals, functions, etc.
    - program arguments as input, and files as output.
  - HEX,DEC,BIN
