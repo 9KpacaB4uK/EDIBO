@@ -1,0 +1,206 @@
+    1  VirtualBox --startvm XP
+    2  quartus
+    3  pwd
+    4  git clone http://github.com/9KpacaB4uK/EDIBO
+    5  ls -l
+    6  clear
+    7  cd Ed
+    8  cd EDIBO/
+    9  ls
+   10  mv mans_pirmais_skripts.sh SHELL/
+   11  ls
+   12  cd SHELL/
+   13  ls -l
+   14  clear
+   15  ls
+   16  nano test.sh 
+   17  ./test.sh 
+   18  nano test.sh 
+   19  ./test.sh 
+   20  mv test.sh loopsTriangle.sh
+   21  ls -l
+   22  clear
+   23  firefox &
+   24  clear
+   25  cd ../..
+   26  git clone http://github.com/9KpacaB4uK/FibonacciNumbers
+   27  ls
+   28  cd FibonacciNumbers/
+   29  ls
+   30  nano fibonacciNumbersShell.sh
+   31  ls
+   32  chmod 744 fibonacciNumbersShell.sh 
+   33  ./fibonacciNumbersShell.sh 
+   34  clear
+   35  ./fibonacciNumbersShell.sh 
+   36  clear
+   37  nano fibonacciNumbersShell.sh 
+   38  ./fibonacciNumbersShell.sh 
+   39  nano fibonacciNumbersShell.sh 
+   40  clear
+   41  ./fibonacciNumbersShell.sh 
+   42  nano fibonacciNumbersShell.sh 
+   43  ./fibonacciNumbersShell.sh 
+   44  nano fibonacciNumbersShell.sh 
+   45  ./fibonacciNumbersShell.sh 
+   46  nano fibonacciNumbersShell.sh 
+   47  ./fibonacciNumbersShell.sh 
+   48  nano fibonacciNumbersShell.sh 
+   49  ./fibonacciNumbersShell.sh 
+   50  nano fibonacciNumbersShell.sh 
+   51  ./fibonacciNumbersShell.sh 
+   52  nano fibonacciNumbersShell.sh 
+   53  ./fibonacciNumbersShell.sh 
+   54  nano fibonacciNumbersShell.sh 
+   55  ./fibonacciNumbersShell.sh 
+   56  ./fi
+   57  ./fibonacciNumbersShell.sh 
+   58  clear
+   59  ./fibonacciNumbersShell.sh 
+   60  clear
+   61  ./fibonacciNumbersShell.sh 
+   62  clear
+   63  cd ..
+   64  ls -l
+   65  cd FibonacciNumbers/
+   66  ls -l
+   67  cd ../EDIBO/
+   68  cp git-upload ../FibonacciNumbers/
+   69  ls
+   70  cd ../FibonacciNumbers/
+   71  ls
+   72  ./git-upload 
+   73  cd ..
+   74  ls
+   75  cd EDIBO/
+   76  cd
+   77  ls -l
+   78  cd EDIBO/
+   79  ls -l
+   80  cd SHELL/
+   81  ls -l
+   82  nano DecToBin_v2.sh
+   83  chmod 744 DecToBin_v2.sh 
+   84  mv DecToBin_v2.sh v2_DecToBin.sh
+   85  ls -l
+   86  ./v2_DecToBin.sh 
+   87  nano v2_DecToBin.sh 
+   88  ./v2_DecToBin.sh 
+   89  nano v2_DecToBin.sh 
+   90  ./v2_DecToBin.sh 
+   91  nano v2_DecToBin.sh 
+   92  ./v2_DecToBin.sh 
+   93  nano v2_DecToBin.sh 
+   94  ./v2_DecToBin.sh 
+   95  nano v2_DecToBin.sh 
+   96  ./v2_DecToBin.sh 
+   97  nano v2_DecToBin.sh 
+   98  ./v2_DecToBin.sh 
+   99  nano v2_DecToBin.sh 
+  100  ./v2_DecToBin.sh 
+  101  nano v2_DecToBin.sh 
+  102  ./v2_DecToBin.sh 
+  103  nano v2_DecToBin.sh 
+  104  ./v2_DecToBin.sh 
+  105  nano v2_DecToBin.sh 
+  106  ./v2_DecToBin.sh 
+  107  nano v2_DecToBin.sh 
+  108  ./v2_DecToBin.sh 
+  109  nano v2_DecToBin.sh 
+  110  ./v2_DecToBin.sh 
+  111  nano v2_DecToBin.sh 
+  112  ./v2_DecToBin.sh 
+  113  nano v2_DecToBin.sh 
+  114  ./v2_DecToBin.sh 
+  115  nano v2_DecToBin.sh 
+  116  ./v2_DecToBin.sh 
+  117  nano v2_DecToBin.sh 
+  118  ./v2_DecToBin.sh 
+  119  nano v2_DecToBin.sh 
+  120  ./v2_DecToBin.sh 
+  121  nano v2_DecToBin.sh 
+  122  ./v2_DecToBin.sh 
+  123  nano v2_DecToBin.sh 
+  124  ./v2_DecToBin.sh 
+  125  nano v2_DecToBin.sh 
+  126  ./v2_DecToBin.sh 
+  127  5
+  128  clear
+  129  nano v2_DecToBin.sh 
+  130  ./v2_DecToBin.sh 
+  131  nano v2_DecToBin.sh 
+  132  ./v2_DecToBin.sh 
+  133  nano v2_DecToBin.sh 
+  134  ./v2_DecToBin.sh 
+  135  nano v2_DecToBin.sh 
+  136  ./v2_DecToBin.sh 
+  137  nano v2_DecToBin.sh 
+  138  clear
+  139  ./v2_DecToBin.sh 
+  140  clear
+  141  9
+  142  ./v2_DecToBin.sh 
+  143  nano v2_DecToBin.sh 
+  144  ./v2_DecToBin.sh 
+  145  nano v2_DecToBin.sh 
+  146  ./v2_DecToBin.sh 
+  147  nano v2_DecToBin.sh 
+  148  ./v2_DecToBin.sh 
+  149  clear
+  150  nano v2_DecToBin.sh 
+  151  ./v2_DecToBin.sh 
+  152  nano v2_DecToBin.sh 
+  153  ./v2_DecToBin.sh 
+  154  nano v2_DecToBin.sh 
+  155  ./v2_DecToBin.sh 
+  156  nano v2_DecToBin.sh 
+  157  ./v2_DecToBin.sh 
+  158  nano v2_DecToBin.sh 
+  159  clear
+  160  ./v2_DecToBin.sh 
+  161  nano v2_DecToBin.sh 
+  162  ./v2_DecToBin.sh 
+  163  nano v2_DecToBin.sh 
+  164  ./v2_DecToBin.sh 
+  165  nano v2_DecToBin.sh 
+  166  ./v2_DecToBin.sh 
+  167  clear
+  168  nano v2_DecToBin.sh 
+  169  ./v2_DecToBin.sh 
+  170  nano v2_DecToBin.sh 
+  171  ./v2_DecToBin.sh 
+  172  nano v2_DecToBin.sh 
+  173  ./v2_DecToBin.sh 
+  174  nano v2_DecToBin.sh 
+  175  ./v2_DecToBin.sh 
+  176  nano v2_DecToBin.sh 
+  177  ./v2_DecToBin.sh 
+  178  nano v2_DecToBin.sh 
+  179  ./v2_DecToBin.sh 
+  180  nano v2_DecToBin.sh 
+  181  ./v2_DecToBin.sh 
+  182  nano v2_DecToBin.sh 
+  183  ./v2_DecToBin.sh 
+  184  nano v2_DecToBin.sh 
+  185  clear
+  186  ./v2_DecToBin.sh 
+  187  nano v2_DecToBin.sh 
+  188  ./v2_DecToBin.sh 
+  189* 
+  190  ./v2_DecToBin.sh 
+  191  cler
+  192  clear
+  193  ./v2_DecToBin.sh 
+  194  nano v2_DecToBin.sh 
+  195  ./v2_DecToBin.sh 
+  196  nano v2_DecToBin.sh 
+  197  clear
+  198  ./v2_DecToBin.sh 
+  199  nano v2_DecToBin.sh 
+  200  cd ..
+  201  mkdir Python
+  202  cd Python/
+  203  nano README.md
+  204  clear
+  205  history 
+  206  history > ../SHELL/history/history_20200812b.txt

@@ -1,0 +1,135 @@
+    1  VirtualBox --startvm XP
+    2  quartus
+    3  pwd
+    4  git clone http://github.com/9KpacaB4uK/EDIBO
+    5  ls -l
+    6  clear
+    7  cd Ed
+    8  cd EDIBO/
+    9  ls
+   10  mv mans_pirmais_skripts.sh SHELL/
+   11  ls
+   12  cd SHELL/
+   13  ls -l
+   14  clear
+   15  ls
+   16  nano test.sh 
+   17  ./test.sh 
+   18  nano test.sh 
+   19  ./test.sh 
+   20  mv test.sh loopsTriangle.sh
+   21  ls -l
+   22  clear
+   23  firefox &
+   24  clear
+   25  cd ../..
+   26  git clone http://github.com/9KpacaB4uK/FibonacciNumbers
+   27  ls
+   28  cd FibonacciNumbers/
+   29  ls
+   30  nano fibonacciNumbersShell.sh
+   31  ls
+   32  chmod 744 fibonacciNumbersShell.sh 
+   33  ./fibonacciNumbersShell.sh 
+   34  clear
+   35  ./fibonacciNumbersShell.sh 
+   36  clear
+   37  nano fibonacciNumbersShell.sh 
+   38  ./fibonacciNumbersShell.sh 
+   39  nano fibonacciNumbersShell.sh 
+   40  clear
+   41  ./fibonacciNumbersShell.sh 
+   42  nano fibonacciNumbersShell.sh 
+   43  ./fibonacciNumbersShell.sh 
+   44  nano fibonacciNumbersShell.sh 
+   45  ./fibonacciNumbersShell.sh 
+   46  nano fibonacciNumbersShell.sh 
+   47  ./fibonacciNumbersShell.sh 
+   48  nano fibonacciNumbersShell.sh 
+   49  ./fibonacciNumbersShell.sh 
+   50  nano fibonacciNumbersShell.sh 
+   51  ./fibonacciNumbersShell.sh 
+   52  nano fibonacciNumbersShell.sh 
+   53  ./fibonacciNumbersShell.sh 
+   54  nano fibonacciNumbersShell.sh 
+   55  ./fibonacciNumbersShell.sh 
+   56  ./fi
+   57  ./fibonacciNumbersShell.sh 
+   58  clear
+   59  ./fibonacciNumbersShell.sh 
+   60  clear
+   61  ./fibonacciNumbersShell.sh 
+   62  clear
+   63  cd ..
+   64  ls -l
+   65  cd FibonacciNumbers/
+   66  ls -l
+   67  cd ../EDIBO/
+   68  cp git-upload ../FibonacciNumbers/
+   69  ls
+   70  cd ../FibonacciNumbers/
+   71  ls
+   72  ./git-upload 
+   73  cd ..
+   74  ls
+   75  cd EDIBO/
+   76  cd
+   77  ls -l
+   78  cd EDIBO/
+   79  ls -l
+   80  cd SHELL/
+   81  ls -l
+   82  nano DecToBin_v2.sh
+   83  chmod 744 DecToBin_v2.sh 
+   84  mv DecToBin_v2.sh v2_DecToBin.sh
+   85  ls -l
+   86  ./v2_DecToBin.sh 
+   87  nano v2_DecToBin.sh 
+   88  ./v2_DecToBin.sh 
+   89  nano v2_DecToBin.sh 
+   90  ./v2_DecToBin.sh 
+   91  nano v2_DecToBin.sh 
+   92  ./v2_DecToBin.sh 
+   93  nano
+   94  ls -l
+   95  nsno v2_DecToBin.sh 
+   96  nano v2_DecToBin.sh 
+   97  ./v2_DecToBin.sh 
+   98  python
+   99  Python ipython
+  100  Python$ python
+  101  pyton
+  102  python
+  103  ipython
+  104  ls -l
+  105  nano firstPythonScript.py
+  106  ls -l
+  107  ipython
+  108  python firstPythonScript.py 
+  109  nano firstPythonScript.py 
+  110  python firstPythonScript.py 
+  111  nano firstPythonScript.py 
+  112  python firstPythonScript.py 
+  113  ipython firstPythonScript.py 
+  114  clear
+  115  ipython firstPythonScript.py 
+  116  cp firstPythonScript.py  SecondPythonScript_likeExecutable.py 
+  117  ls -l
+  118  where is python 
+  119  whereis python 
+  120  ls -l
+  121  mv SecondPythonScript_likeExecutable.py secondPythonScript_likeExecutable.py 
+  122  nsno secondPythonScript_likeExecutable.py 
+  123  nano secondPythonScript_likeExecutable.py 
+  124  ls -l
+  125  chmode 744 secondPythonScript_likeExecutable.py 
+  126  chmod 744 secondPythonScript_likeExecutable.py 
+  127  ls -l
+  128  ./secondPythonScript_likeExecutable.py 
+  129  idle &
+  130  python firstPythonScript.py 
+  131  ls -lt
+  132  cd ..
+  133  history
+  134  ls -l
+  135  history > SHELL/history/history_20200812a.txt
