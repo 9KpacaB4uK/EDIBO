@@ -3,11 +3,11 @@
 read -p "Enter DEC number: " dec
 array=()
 prev_dec=$dec
-while [[ $prev_dec > 0 ]]
+while [[ $dec > 0 ]]
 	do
 	prev_dec=$dec
 	dec=$((dec / 2))
-		if [ $dec != 0 ];
+		if [ $prev_dec > 2 ] && [ $dec != 0 ];
 			then
 			if [ $(($prev_dec % $dec)) != 0 ]; 
 				then
@@ -21,7 +21,7 @@ while [[ $prev_dec > 0 ]]
 		else
 		echo 1
 		break
-	fi
+		fi
 done
 #echo ${array[@]}
 echo "done"
