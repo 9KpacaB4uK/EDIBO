@@ -1,0 +1,59 @@
+ls -l
+./01.py
+01.py
+a = 100
+print(a)
+a
+clear
+if(11==11):
+    print("yes")
+    else
+if(11==11):
+    print("yes")
+if(11 == 11):
+    print("yes")
+   else:
+if(11 == 11):
+    print("yes")
+   else:
+if(11 == 11):
+    print("yes")
+    else:
+if(11 == 11):
+    print("yes")
+    else:
+if(11 == 11):
+    print("yes")
+    else:
+if(11 == 11):
+    print("yes")
+    else: print("no")
+if(11 == 11):
+    print("yes")else:
+if (11 == 11):
+    print("yes")
+    else:
+if (11 == 11):
+    print("yes")
+    else:
+if (11 == 11):
+    print("yes")
+    else:
+if (11 == 11):
+    print("yes")
+    else:
+if (11 == 11):
+    print("yes")
+    else:
+if (11 == 11):
+    print("yes")
+else:
+    print("no")
+if (12 == 11):
+    print("yes")
+else:
+    print("no")
+%save
+save
+ls -l
+%history -f history_20200812a.txt

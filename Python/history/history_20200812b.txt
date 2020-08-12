@@ -1,0 +1,136 @@
+ls -l
+./01.py
+01.py
+a = 100
+print(a)
+a
+clear
+if(11==11):
+    print("yes")
+    else
+if(11==11):
+    print("yes")
+if(11 == 11):
+    print("yes")
+   else:
+if(11 == 11):
+    print("yes")
+   else:
+if(11 == 11):
+    print("yes")
+    else:
+if(11 == 11):
+    print("yes")
+    else:
+if(11 == 11):
+    print("yes")
+    else:
+if(11 == 11):
+    print("yes")
+    else: print("no")
+if(11 == 11):
+    print("yes")else:
+if (11 == 11):
+    print("yes")
+    else:
+if (11 == 11):
+    print("yes")
+    else:
+if (11 == 11):
+    print("yes")
+    else:
+if (11 == 11):
+    print("yes")
+    else:
+if (11 == 11):
+    print("yes")
+    else:
+if (11 == 11):
+    print("yes")
+else:
+    print("no")
+if (12 == 11):
+    print("yes")
+else:
+    print("no")
+%save
+save
+ls -l
+%history -f history_20200812a.txt
+ls -l
+cat history_20200812a.txt
+clear
+if (12 < 11):
+    print("false")
+else:
+    print("true")
+if (12 > 11):
+    print("false")
+else:
+    print("true")
+if (12 > 11):
+    print("false")
+elif(12 < 11):
+    print("true")
+if (12 > 11):
+    print("false")
+elif(-3 > 4):
+    print("true")
+if (12 < 11):
+    print("false")
+elif(-3 > 4):
+    print("true")
+if (12 < 11):
+    print("false")
+elif(-3 > 4):
+    print("true")
+if (12 < 11):
+    print("if")
+elif(-3 > 4):
+    print("elif")
+else:
+    print("else")
+11 < 12
+r < L
+r < 12
+12 < 12
+1.1 > 1
+1.1 < 1
+type(1) == int
+for i in range(6):print(HELLO)
+for i in range(6):print("HELLO")
+for i in range(100):print("HELLO")
+for i in range(100):print(i)
+for i in range(100+1):print(i)
+for i in range(1+1):print(i)
+for i in range(0+1):print(i)
+for i in range(0):print(i)
+for i in range(10):print(i-5)
+for i in "EDIBO":print(i-5)
+for i in range(10):print(i-5)
+for i in range(1000):print(i-5)
+for i in range(100000):print(i-5)
+for i in range(1000000):print(i)
+for i in range(1000000+1):print(i)
+for i in range(10,2):print(i)
+for i in range(3,10,2):print(i)
+for i in range(3,10,2):print(i)
+for i in range(3,10,2):print(i)
+for i in range(3,10,2):print(i)
+for i in range(3,10):print(i)
+for i in range(3,10):print(i)
+for i in range(3,10):print(i)
+for i in range(3,10,5):print(i)
+for i in range(-5,10,5):print(i)
+for i in range(-5,10,5):print(i, end=" ")
+for i in range(10000):print(i, end=" ")
+for i in range(10):print(i, end=" ")
+clear
+a = 5
+b = 7
+for i in range(a):print(b, end=" ")
+a= 30
+for i in range(a):print(b, end=" ")
+ls
+%history history_20200812b.txt
+%history -f history_20200812b.txt
