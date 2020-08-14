@@ -1,0 +1,25 @@
+#mainDiv{
+    height: 100%;
+    width: 100%;
+    background-color: khaki;
+}
+#headMenu{
+    background: yellow;
+    width: 100%;
+    height: 50%;
+}
+#infoAbout{
+    background: brown;
+    width: 100%;
+    height: 50%;
+    text-align: center;
+}
+#picAvatar{
+    border-radius: 50%;
+    width: 56px;
+    height: 56px;
+
+}
+h1{
+    color:red;
+}
