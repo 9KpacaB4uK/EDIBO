@@ -1,18 +1,33 @@
+html{
+    height: 100%;
+    margin: 0;
+    padding: 0;
+}
+body{
+    margin: 0;
+    padding: 0;
+    height: 100%;
+}
 #mainDiv{
     height: 100%;
     width: 100%;
-    background-color: khaki;
 }
 #headMenu{
-    background: yellow;
-    width: 100%;
-    height: 50%;
-}
-#infoAbout{
     background: brown;
     width: 100%;
-    height: 50%;
+    height: 20%;
+}
+#middleBlock{
+    background: white;
+    width: 100%;
+    height: 100%;
     text-align: center;
+}
+#infoAbout{
+    text-align: center;
+    margin: auto;
+    width: 33.33%;
+    height: auto;
 }
 #picAvatar{
     border-radius: 50%;
