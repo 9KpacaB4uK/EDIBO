@@ -23,12 +23,12 @@ body{
     left: 50%;
     transform: translate(-50%, -50%);
     z-index: 2;
-    width: 80%;
-    padding: 20px;
+    width: 400px;
+    height: auto;
+    padding: 20px 10px 23px 10px;
     text-align: center;
 }
 #info_avatar{
- padding-top:20px;
 }
 #info_about{
     text-align: center;
@@ -62,8 +62,8 @@ border-bottom: 3px solid white;
   background-size: cover;
 }
 #name_text{
-    font-size: 200%px;
-    font-family: 'Luckiest Guy';
+    font-size: 200%;
+    font-family: 'Luckiest Guy' ;
     color: #fff;
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
@@ -78,6 +78,16 @@ border-bottom: 3px solid white;
     height: 40%;
 
 }
+.icons{
+    width: 35px;
+    height: auto;
+}
 h1{
     color:red;
+}
+#gmailDiv{
+    height: 100%;
+    width: 100%;
+    border-radius: 50%;
+    color: red;
 }
