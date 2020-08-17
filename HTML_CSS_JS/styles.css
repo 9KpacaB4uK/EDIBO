@@ -91,3 +91,10 @@ h1{
     border-radius: 50%;
     color: red;
 }
+#nextPage{
+    margin-top: 20px;
+}
+#nextPage:hover{
+    margin-top: 20px;
+    background: rgb(245, 78, 78);
+}
