@@ -41,9 +41,11 @@ EDIBO projekta elektroniskā klade
 - **git pull** - in contrast, is used with a different goal in mind: to update your current HEAD branch with the latest changes from the remote server. This means that pull not only downloads new data; it also directly integrates it into your current working copy files.
  ## Day 03 - Day 08
  ### Topics:
- - BASH
+ - **BASH**
    - core programming concepts: loops, conditionals, functions, etc.
    - program arguments as input, and files as output.
- - HEX,DEC,BIN
+ - **HEX,DEC,BIN**
+ - **Python** - https://github.com/9KpacaB4uK/EDIBO/blob/master/Python/
+ - **HTML, CSS, JS** - https://github.com/9KpacaB4uK/EDIBO/blob/master/HTML_CSS_JS/
 
    
