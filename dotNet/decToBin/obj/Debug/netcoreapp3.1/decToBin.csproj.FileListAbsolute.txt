@@ -1,0 +1,13 @@
+C:\Users\sanja\OneDrive\Desktop\EDIBO\dotNet\decToBin\obj\Debug\netcoreapp3.1\decToBin.csprojAssemblyReference.cache
+C:\Users\sanja\OneDrive\Desktop\EDIBO\dotNet\decToBin\obj\Debug\netcoreapp3.1\decToBin.AssemblyInfoInputs.cache
+C:\Users\sanja\OneDrive\Desktop\EDIBO\dotNet\decToBin\obj\Debug\netcoreapp3.1\decToBin.AssemblyInfo.cs
+C:\Users\sanja\OneDrive\Desktop\EDIBO\dotNet\decToBin\obj\Debug\netcoreapp3.1\decToBin.csproj.CoreCompileInputs.cache
+C:\Users\sanja\OneDrive\Desktop\EDIBO\dotNet\decToBin\bin\Debug\netcoreapp3.1\decToBin.exe
+C:\Users\sanja\OneDrive\Desktop\EDIBO\dotNet\decToBin\bin\Debug\netcoreapp3.1\decToBin.deps.json
+C:\Users\sanja\OneDrive\Desktop\EDIBO\dotNet\decToBin\bin\Debug\netcoreapp3.1\decToBin.runtimeconfig.json
+C:\Users\sanja\OneDrive\Desktop\EDIBO\dotNet\decToBin\bin\Debug\netcoreapp3.1\decToBin.runtimeconfig.dev.json
+C:\Users\sanja\OneDrive\Desktop\EDIBO\dotNet\decToBin\bin\Debug\netcoreapp3.1\decToBin.dll
+C:\Users\sanja\OneDrive\Desktop\EDIBO\dotNet\decToBin\bin\Debug\netcoreapp3.1\decToBin.pdb
+C:\Users\sanja\OneDrive\Desktop\EDIBO\dotNet\decToBin\obj\Debug\netcoreapp3.1\decToBin.dll
+C:\Users\sanja\OneDrive\Desktop\EDIBO\dotNet\decToBin\obj\Debug\netcoreapp3.1\decToBin.pdb
+C:\Users\sanja\OneDrive\Desktop\EDIBO\dotNet\decToBin\obj\Debug\netcoreapp3.1\decToBin.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\sanja\OneDrive\Desktop\EDIBO\dotNet\fibonacciNumbers\bin\Debug\netcoreapp3.1\fibonacciNumbers.exe
+C:\Users\sanja\OneDrive\Desktop\EDIBO\dotNet\fibonacciNumbers\bin\Debug\netcoreapp3.1\fibonacciNumbers.deps.json
+C:\Users\sanja\OneDrive\Desktop\EDIBO\dotNet\fibonacciNumbers\bin\Debug\netcoreapp3.1\fibonacciNumbers.runtimeconfig.json
+C:\Users\sanja\OneDrive\Desktop\EDIBO\dotNet\fibonacciNumbers\bin\Debug\netcoreapp3.1\fibonacciNumbers.runtimeconfig.dev.json
+C:\Users\sanja\OneDrive\Desktop\EDIBO\dotNet\fibonacciNumbers\bin\Debug\netcoreapp3.1\fibonacciNumbers.dll
+C:\Users\sanja\OneDrive\Desktop\EDIBO\dotNet\fibonacciNumbers\bin\Debug\netcoreapp3.1\fibonacciNumbers.pdb
+C:\Users\sanja\OneDrive\Desktop\EDIBO\dotNet\fibonacciNumbers\obj\Debug\netcoreapp3.1\fibonacciNumbers.csprojAssemblyReference.cache
+C:\Users\sanja\OneDrive\Desktop\EDIBO\dotNet\fibonacciNumbers\obj\Debug\netcoreapp3.1\fibonacciNumbers.AssemblyInfoInputs.cache
+C:\Users\sanja\OneDrive\Desktop\EDIBO\dotNet\fibonacciNumbers\obj\Debug\netcoreapp3.1\fibonacciNumbers.AssemblyInfo.cs
+C:\Users\sanja\OneDrive\Desktop\EDIBO\dotNet\fibonacciNumbers\obj\Debug\netcoreapp3.1\fibonacciNumbers.csproj.CoreCompileInputs.cache
+C:\Users\sanja\OneDrive\Desktop\EDIBO\dotNet\fibonacciNumbers\obj\Debug\netcoreapp3.1\fibonacciNumbers.dll
+C:\Users\sanja\OneDrive\Desktop\EDIBO\dotNet\fibonacciNumbers\obj\Debug\netcoreapp3.1\fibonacciNumbers.pdb
+C:\Users\sanja\OneDrive\Desktop\EDIBO\dotNet\fibonacciNumbers\obj\Debug\netcoreapp3.1\fibonacciNumbers.genruntimeconfig.cache

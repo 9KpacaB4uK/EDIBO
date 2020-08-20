@@ -1,0 +1,13 @@
+C:\Users\sanja\OneDrive\Desktop\EDIBO\dotNet\myFirstConsoleApp\bin\Debug\netcoreapp3.1\myFirstConsoleApp.exe
+C:\Users\sanja\OneDrive\Desktop\EDIBO\dotNet\myFirstConsoleApp\bin\Debug\netcoreapp3.1\myFirstConsoleApp.deps.json
+C:\Users\sanja\OneDrive\Desktop\EDIBO\dotNet\myFirstConsoleApp\bin\Debug\netcoreapp3.1\myFirstConsoleApp.runtimeconfig.json
+C:\Users\sanja\OneDrive\Desktop\EDIBO\dotNet\myFirstConsoleApp\bin\Debug\netcoreapp3.1\myFirstConsoleApp.runtimeconfig.dev.json
+C:\Users\sanja\OneDrive\Desktop\EDIBO\dotNet\myFirstConsoleApp\bin\Debug\netcoreapp3.1\myFirstConsoleApp.dll
+C:\Users\sanja\OneDrive\Desktop\EDIBO\dotNet\myFirstConsoleApp\bin\Debug\netcoreapp3.1\myFirstConsoleApp.pdb
+C:\Users\sanja\OneDrive\Desktop\EDIBO\dotNet\myFirstConsoleApp\obj\Debug\netcoreapp3.1\myFirstConsoleApp.csprojAssemblyReference.cache
+C:\Users\sanja\OneDrive\Desktop\EDIBO\dotNet\myFirstConsoleApp\obj\Debug\netcoreapp3.1\myFirstConsoleApp.AssemblyInfoInputs.cache
+C:\Users\sanja\OneDrive\Desktop\EDIBO\dotNet\myFirstConsoleApp\obj\Debug\netcoreapp3.1\myFirstConsoleApp.AssemblyInfo.cs
+C:\Users\sanja\OneDrive\Desktop\EDIBO\dotNet\myFirstConsoleApp\obj\Debug\netcoreapp3.1\myFirstConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\sanja\OneDrive\Desktop\EDIBO\dotNet\myFirstConsoleApp\obj\Debug\netcoreapp3.1\myFirstConsoleApp.dll
+C:\Users\sanja\OneDrive\Desktop\EDIBO\dotNet\myFirstConsoleApp\obj\Debug\netcoreapp3.1\myFirstConsoleApp.pdb
+C:\Users\sanja\OneDrive\Desktop\EDIBO\dotNet\myFirstConsoleApp\obj\Debug\netcoreapp3.1\myFirstConsoleApp.genruntimeconfig.cache
