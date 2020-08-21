@@ -1,0 +1,13 @@
+C:\Users\sanja\OneDrive\Desktop\EDIBO\dotNet\greatestCommonDivisor\obj\Debug\netcoreapp3.1\greatestCommonDivisor.csprojAssemblyReference.cache
+C:\Users\sanja\OneDrive\Desktop\EDIBO\dotNet\greatestCommonDivisor\obj\Debug\netcoreapp3.1\greatestCommonDivisor.AssemblyInfoInputs.cache
+C:\Users\sanja\OneDrive\Desktop\EDIBO\dotNet\greatestCommonDivisor\obj\Debug\netcoreapp3.1\greatestCommonDivisor.AssemblyInfo.cs
+C:\Users\sanja\OneDrive\Desktop\EDIBO\dotNet\greatestCommonDivisor\obj\Debug\netcoreapp3.1\greatestCommonDivisor.csproj.CoreCompileInputs.cache
+C:\Users\sanja\OneDrive\Desktop\EDIBO\dotNet\greatestCommonDivisor\bin\Debug\netcoreapp3.1\greatestCommonDivisor.exe
+C:\Users\sanja\OneDrive\Desktop\EDIBO\dotNet\greatestCommonDivisor\bin\Debug\netcoreapp3.1\greatestCommonDivisor.deps.json
+C:\Users\sanja\OneDrive\Desktop\EDIBO\dotNet\greatestCommonDivisor\bin\Debug\netcoreapp3.1\greatestCommonDivisor.runtimeconfig.json
+C:\Users\sanja\OneDrive\Desktop\EDIBO\dotNet\greatestCommonDivisor\bin\Debug\netcoreapp3.1\greatestCommonDivisor.runtimeconfig.dev.json
+C:\Users\sanja\OneDrive\Desktop\EDIBO\dotNet\greatestCommonDivisor\bin\Debug\netcoreapp3.1\greatestCommonDivisor.dll
+C:\Users\sanja\OneDrive\Desktop\EDIBO\dotNet\greatestCommonDivisor\bin\Debug\netcoreapp3.1\greatestCommonDivisor.pdb
+C:\Users\sanja\OneDrive\Desktop\EDIBO\dotNet\greatestCommonDivisor\obj\Debug\netcoreapp3.1\greatestCommonDivisor.dll
+C:\Users\sanja\OneDrive\Desktop\EDIBO\dotNet\greatestCommonDivisor\obj\Debug\netcoreapp3.1\greatestCommonDivisor.pdb
+C:\Users\sanja\OneDrive\Desktop\EDIBO\dotNet\greatestCommonDivisor\obj\Debug\netcoreapp3.1\greatestCommonDivisor.genruntimeconfig.cache
