@@ -47,4 +47,5 @@ EDIBO projekta elektroniskā klade
  - **HEX,DEC,BIN**
  - **Python** - https://github.com/9KpacaB4uK/EDIBO/blob/master/Python/
  - **HTML, CSS, JS** - https://github.com/9KpacaB4uK/EDIBO/blob/master/HTML_CSS_JS/
+ - **.NET c#** - https://github.com/9KpacaB4uK/EDIBO/tree/master/dotNet
    
