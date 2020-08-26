@@ -1,0 +1,146 @@
+html{
+    height: 100% !important;
+    margin: 0 !important;
+    padding: 0 !important;
+}
+body{
+    margin: 0 !important;
+    padding: 0 !important;
+    height: 100% !important;
+    min-width: 460px;
+}
+#mainDiv{
+    height: 100%;
+    width: 100%;
+}
+#middleBlock{
+    background-color: rgb(0,0,0); /* Fallback color */
+    background-color: rgba(0,0,0, 0.5); /* Black w/opacity/see-through */
+    color: white;
+    font-weight: bold;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    z-index: 2;
+    width: 400px;
+    height: auto;
+    text-align: center;
+}
+#info_avatar{
+  height: 300px;
+  margin-top: 20px;
+}
+#info_about{
+    text-align: center;
+    margin: auto;
+    width: 33.33%;
+    height: auto;
+    border-color: white;
+    border: 2px;
+}
+#info_icons{
+border-bottom: 3px solid white;
+padding: 2%;
+margin-right: 20px;
+margin-left: 20px;
+}
+#table_icons{
+    padding-top: 3px;
+    margin: auto;
+}
+#bg-image{
+  /* The image used */
+  background-image: url("/images/background.jpg");
+
+  /* Add the blur effect */
+  filter: blur(5px);
+  -webkit-filter: blur(5px);
+
+  /* Full height */
+  height: 100%;
+
+  /* Center and scale the image nicely */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+#name_text{
+    color: #fff;
+    margin-bottom: 0;
+    margin-top: 3px;
+    font-size: 30px;
+}
+#name{
+    border-bottom:  solid white;
+    margin-right: 20px;
+    margin-left: 20px;
+}
+.icons{
+    width: 35px;
+    height: auto;
+}
+h1{
+    color:red;
+}
+#gmailDiv{
+    height: 100%;
+    width: 100%;
+    border-radius: 50%;
+    color: red;
+    padding-left: 5px;
+    padding-right: 5px;
+}
+#nextPage{
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+#nextPage{
+    width: 50%;
+    color: white;
+    padding: 0;
+    font-size: 25px;
+    border: 0;
+    margin: 20px 0px 20px 0px;
+}
+#nextPage:hover{
+    margin-top: 20px;
+    background-color: white;
+    color:rgb(0, 132, 255);
+    border-color: rgb(0, 132, 255);
+    width: 100%;
+    margin-right: 20px;
+    margin-left: 20px;
+    max-width: 50%;
+
+}
+#middleBlockBgUp{
+  min-height: 50%;
+  max-width: 100% ;
+  max-height: 50% ;
+  height: 50%;
+  background: linear-gradient();
+}
+#divImg {
+  position:relative;
+}
+
+#divImg2 {
+  position:absolute;
+}
+
+#divImg img { 
+    border-radius: 50%;
+    margin-top:-50%;
+    width: 100%;
+    height: 100%;
+    padding: 50px;
+}
+#middleBlockBgDown{
+max-width: 100% ;
+max-height: 50% ;
+height: 50%;
+}
+#middleBlock{
+  
+}

@@ -2,17 +2,24 @@
 <html>
 	<head>
 		<title>Home page</title>
-		<link rel="stylesheet" type="text/css" href="styles.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" integrity="sha384-JcKb8q3iqJ61gNV9KGb8thSsNjpSL0n8PARn9HuZOnIxN0hoP+VmmDGMN5t9UJ0Z" crossorigin="anonymous">
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js" integrity="sha384-B4gt1jrGC7Jh4AgTPSdUtOBvfO8shuf57BaghqFfPlYxofvL8/KUEfYiJOMMV+rV" crossorigin="anonymous"></script>
+		<link rel="stylesheet" type="text/css" href="CSS/style.css">
 		<script src="scripts.js"></script>
 	</head>
 	<body>
-		<div id="mainDiv">
-			<div id="bg-image">
-
-			</div>
+		<div class="container-fluid" id="mainDiv">
+			<div id="bg-image"></div>
 			<div id="middleBlock">
 				<div id="info_avatar">
-					<img src="https://avatars1.githubusercontent.com/u/39912471?s=460&u=09e6dbb4aa21f77de1356921006d060534775b59&v=4" alt="avatar" id="picAvatar">
+            <div id="middleBlockBgUp"></div>
+            <div id="divImg">
+              <div id="divImg2">
+                <img src="https://avatars1.githubusercontent.com/u/39912471?s=460&u=09e6dbb4aa21f77de1356921006d060534775b59&v=4" alt="avatar" id="picAvatar">
+              </div>
+            </div>
+            <div id="middleBlockBgDown"></div>
 					<br>
 				</div>
 				<div id="name">
@@ -25,27 +32,27 @@
 						<tr>
 							<th>
 								<a href = "https://github.com/9KpacaB4uK">
-									<img class="icons" src="icon_github.png" alt="">
+									<img class="icons" src="images/icon_github.png" alt="">
 								</a>
 							</th>
 							<th>
 								<div id="gmailDiv">
 									<a href = "mailto:sanja81000@gmail.com">
-										<img id="gmail"class="icons" src="icon_gmail.png" alt="">
+										<img id="gmail"class="icons" src="images/icon_gmail.png" alt="">
 									</a>
 									
 								</div>
 							</th>
 							<th>
 								<a href = "https://www.linkedin.com/in/alexander-poroshin-84549a1b0/">
-									<img class="icons" src="icon_linkedin.png" alt="">
+									<img class="icons" src="images/icon_linkedin.png" alt="">
 								</a>								
 							</th>
 							</th>
 						</tr>
 					</table>
 				</div>
-				<button id="nextPage" class="buttons" onclick="moveToNextPage();">next page</button>
+				<button id="nextPage" type="button" class="btn btn-outline-primary" onclick="moveToNextPage();">Next</button>
 			</div>
 		</div>	
 	</body>
