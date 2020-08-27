@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\sanja\\OneDrive\\Desktop\\EDIBO\\dev\\MyFirstWebApi\\MyFirstWebApi.csproj",
-      "projectName": "MyFirstWebApi",
-      "projectPath": "C:\\Users\\sanja\\OneDrive\\Desktop\\EDIBO\\dev\\MyFirstWebApi\\MyFirstWebApi.csproj",
+      "projectUniqueName": "C:\\Users\\sanja\\OneDrive\\Desktop\\EDIBO\\videoProject\\videoProject.csproj",
+      "projectName": "videoProject",
+      "projectPath": "C:\\Users\\sanja\\OneDrive\\Desktop\\EDIBO\\videoProject\\videoProject.csproj",
       "packagesPath": "C:\\Users\\sanja\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\sanja\\OneDrive\\Desktop\\EDIBO\\dev\\MyFirstWebApi\\obj\\",
+      "outputPath": "C:\\Users\\sanja\\OneDrive\\Desktop\\EDIBO\\videoProject\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\sanja\\AppData\\Roaming\\NuGet\\NuGet.Config"

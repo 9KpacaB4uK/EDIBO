@@ -12,3 +12,4 @@ do
    echo
    a=`expr $a + 1`
 done
+$SHELL

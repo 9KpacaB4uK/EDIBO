@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ocP2l+cAOvLxFR/cQArtqX15qh5wqr48//nn1/w8rGphNfSxQxOA3FG7wPOfojRrvz0Svzaz6/cbv2U0kDeL5A==",
+  "dgSpecHash": "1zxmtkwQdOm/Bkc1Ee9KwjkdNoWwZfTYE+Jw78LA6/N+ykLd6opRzHEwsl61NESUDTeW1PAnisvRDZdgXclbJA==",
   "success": true,
-  "projectFilePath": "/home/user/EDIBO/dev/MyFirstWebApi/MyFirstWebApi.csproj",
+  "projectFilePath": "C:\\Users\\sanja\\OneDrive\\Desktop\\EDIBO\\dev\\MyFirstWebApi\\MyFirstWebApi.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
