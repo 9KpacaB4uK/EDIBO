@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "59thmFTck9vyJqubBKnrrG1xy9mMGxcyt9iT8Fa/fBoNoPtaEEARpv2ChshDATzRKlpihF+MtppzvsIfSGuA0w==",
+  "success": true,
+  "projectFilePath": "/home/user/EDIBO/dotNet/OurChat/OurChat.csproj",
+  "expectedPackageFiles": [
+    "/home/user/.nuget/packages/newtonsoft.json/12.0.3/newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
