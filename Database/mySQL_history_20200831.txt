@@ -1,0 +1,53 @@
+_HiStOrY_V2_
+SHOW databases
+SELECT CURRENT_USER();
+SHOW databases SELECT CURRENT_USER();
+SELECT CURRENT_USER();
+use db24;
+SELECT * FROM db24;
+SHOW TABLES
+;
+CREATE TABLE myTBL_8(columnt 1 varchar(5));
+CREATE TABLE myTBL_8 (columnt 1 varchar(5));
+CREATE TABLE myTBL_8 (columnt1 varchar(5));
+SHOW TABLES
+;
+DESCRIBE myTBL_8
+;
+SHOW TABLE STATUS FROM db24
+;
+SHOW TABLE STATUS FROM db24 WHERE Name='myTBL_8';
+SELECT * FROM myTBL_8;
+insert into myTBL_8(columnt1) VALUES ('text1');
+SELECT * FROM myTBL_8;
+insert into myTBL_8(columnt1) VALUES ('text2');
+SELECT * FROM myTBL_8;
+insert into myTBL_8(columnt1) VALUES ('text3');
+SELECT * FROM myTBL_8;
+insert into myTBL_8(columnt1) VALUES ('text44');
+SELECT * FROM myTBL_8;
+ALTER TABLE myTBL_8 ADD column2 int;
+SELECT * FROM myTBL_8;
+UPDATE TABLE myTBL_8
+SET column2=123 where columnt1='text1';
+UPDATE TABLE myTBL_8 SET column2=123 where columnt1='text1';
+UPDATE TABLE myTBL_8 SET column2=123 where column1='text1';
+UPDATE myTBL_8 SET column2=123 where column1='text1';
+UPDATE myTBL_8 SET column2=123 where columnt1='text1';
+SELECT * FROM myTBL_8;
+ALTER TABLE myTBL_8 MODIFY COLUMN column2 INT NOT NULL
+;
+SELECT * FROM myTBL_8;
+DESCRIBE myTBL_8
+;
+insert into myTBL_8(columnt1) VALUES ('text5');
+SELECT * FROM myTBL_8;
+insert into myTBL_8(columnt1,column2) VALUES ('text44',NULL);
+ALTER TABLE myTBL_8 MODIFY COLUMN varchar(5) NOT NULL
+;
+ALTER TABLE myTBL_8 MODIFY columnt1 varchar(5) NOT NULL
+;
+SELECT * FROM myTBL_8;
+insert into myTBL_8(column2) VALUES (200);
+SELECT * FROM myTBL_8;
+exit;
