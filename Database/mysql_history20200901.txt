@@ -1,0 +1,24 @@
+_HiStOrY_V2_
+show databases
+;
+use db24
+show tables
+;
+select * from mytbl8;
+describe mytbl8;
+delete * from mytbl8 where username='Pops123';
+delete from mytbl8 where username='Pops123';
+describe mytbl8;
+select * from mytbl8;
+update mytbl8 set idUser=10 where username='31KEKAS';
+ALTER TABLE mytbl8 modify udUser INT PRIMARY KEY AUTO_INCREMENT=11;
+ALTER TABLE mytbl8 modify udUser INT PRIMARY KEY AUTO_INCREMENT;
+ALTER TABLE mytbl8 modify idUser INT PRIMARY KEY AUTO_INCREMENT;
+select * from mytbl8;
+Insert into mytbl8 (username,pass) values('IIDSS1990','313jhc');
+select * from mytbl8;
+exit();
+exit;
+history
+;
+exit;
