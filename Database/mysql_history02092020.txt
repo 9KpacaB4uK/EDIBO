@@ -1,0 +1,168 @@
+_HiStOrY_V2_
+use db24
+show tables
+;
+create table mytbl8-2(id,title)
+;
+create table mytbl8_2(id,title)
+;
+create table mytbl8_2(id INT,title varchar(12));
+alter table mytbl8_2 add primary_key(id)
+;
+alter table mytbl8_2 add primary key(id)
+;
+alter table mytbl8_2 auto_increment=1;
+alter table mytbl8_2 alter column title varchar(20) not null;
+alter table mytbl8_2 alter column title varchar(20);
+alter table mytbl8_2 alter column title varchar (20);
+alter table mytbl8_2 alter column title varchar(22);
+select * from mytbl8_2
+;
+alter table mytbl8_2 modify title varchar(20) not bull;
+alter table mytbl8_2 modify title varchar(20) not null;
+describe mytbl8_2;
+alter table mytbl8_2 modify id int auto_increment;
+describe mytbl8_2;
+show tables
+;
+insert into mytbl8_2 (title) values(Lulu inc);
+insert into mytbl8_2 (title) values('Lulu inc');
+insert into mytbl8_2 (title) values('Chili pica');
+insert into mytbl8_2 (title) values('Best pica');
+select * from mytbl8_2
+;
+select * from mytbl8;
+alter table mytbl8 modify add foreignKey;
+alter table mytbl8 modify add foreignKey INT ;
+alter table mytbl8 modify add foreignKey INT foreign key references mytbl8_2(id) ;
+alter table mytbl8 add foreignKey INT foreign key references mytbl8_2(id) ;
+alter table mytbl8 add foreignKey int;
+alter table mytbl8 add foreign key(foreignkey) references mytbl8_2(id) ;
+select * from mytbl8;
+alter table mytbl8 modify foreignKey default=1;
+alter table mytbl8 modify foreignKey default 1;
+alter table mytbl8 modify foreignKey set default 1;
+alter table mytbl8 modify foreignKey set default=1;
+alter table mytbl8 alter foreignKey set default=1;
+alter table mytbl8 alter foreignKey set default 1;
+select * from mytbl8;
+describe mytbl8_2;
+describe mytbl8;
+select * from mytbl8_2;
+select * from mytbl8;
+update mytbl8 set foreign=default where foreign==null;
+update mytbl8 set foreign=default where foreign=null;
+update mytbl8 set foreign=default where foreignKey==null;
+update mytbl8 set foreign=1 where foreignKey==null;
+update mytbl8 set foreignKey=1 where foreignKey==null;
+update mytbl8 set foreignKey=1 where foreignKey=null;
+select * from mytbl8;
+update mytbl8 set foreignKey=1 where foreignKey==null;
+update mytbl8 set foreignKey=1 where foreignKey=null;
+update mytbl8 set foreignKey=1 where foreignKey='null';
+update mytbl8 set foreignKey=1 where foreignKey=null;
+select * from mytbl8;
+update mytbl8 set foreignKey=1 where foreignKey is null;
+select * from mytbl8;
+delete * from mytbl8 where username='Lolsi';
+delete from mytbl8 where username='Lolsi';
+select * from mytbl8;
+select * from mytbl8_2;
+alter table mytbl8_2 change title userRole varchar(20);
+select * from mytbl8_2;
+update mytbl8_2 set userRole='user' where id!=4;
+select * from mytbl8_2;
+update mytbl8_2 set userRole='admin' where id=2;
+select * from mytbl8_2;
+update mytbl8_2 set userRole='Moderator' where id=3;
+select * from mytbl8_2;
+select * from mytbl8;
+update mytbl8 set foreignKey=2 where idUser=5;
+update mytbl8 set foreignKey=3 where idUser=3;
+update mytbl8 set foreignKey=3 where idUser=10;
+update mytbl8 set foreignKey=4 where idUser=8;
+select * from mytbl8;
+select * from mytbl8_2;
+Select * from mytbl8;
+Select * from mytbl8_2;
+alter table mytbl8_2 add editForum boolean;
+alter table mytbl8_2 add writeCommnets boolean;
+Select * from mytbl8_2;
+update mytbl8_2 set editForum=true where idUser!=1;
+update mytbl8_2 set editForum=true where id!=1;
+update mytbl8_2 set editForum=false where id=1;
+update mytbl8_2 set writeComments=true;
+update mytbl8_2 set writeComments=true where id!=0;
+update mytbl8_2 set writeCommnts=true where id!=0;
+update mytbl8_2 set writeCommnets=true where id!=0;
+alter table mytbl8_2 change writeCommnts writeComments boolean;
+alter table mytbl8_2 change writeCommnets writeComments boolean;
+Select * from mytbl8_2;
+alter table mytbl8_2 add addNews boolean;
+alter table mytbl8_2 add editNews boolean;
+Select * from mytbl8_2;
+update mytbl8_2 set addNews=true where id!=0;
+update mytbl8_2 set editNews=true where id!=1;
+update mytbl8_2 set editNews=false where id=1;
+Select * from mytbl8_2;
+alter table mytbl8_2 add restartSistem boolean;
+update mytbl8_2 set restartSistem=false where id!=2;
+update mytbl8_2 set restartSistem=true where id=2;
+Select * from mytbl8_2;
+Select * from mytbl8;
+describe mytbl8_2
+;
+describe mytbl8;
+show grants
+;
+DELEMITER $$
+;
+DELIMITER $$
+CREATE TRIGGER mytbl8_2guard BEFORE INSERT
+ON mytbl8_2
+FOR EACH ROW
+BEGIN
+IF NEW.userRole='ABC' THEN
+SIGNAL SQLSTATE '500000' SET message_text='Error!!';
+END IF;
+END;$$
+CREATE TRIGGER mytbl8_2guard BEFORE INSERT ON mytbl8_2 FOR EACH ROW BEGIN IF NEW.userRole='ABC' THEN SIGNAL SQLSTATE '500000' SET message_text='Error!!'; END IF; END;$$
+CREATE TRIGGER mytbl8_2guard BEFORE INSERT ON mytbl8_2 FOR EACH ROW BEGIN IF NEW.userRole='ABC' THEN SIGNAL SQLSTATE '50000' SET message_text='Error!!'; END IF; END;$$
+DELIMITER;
+insert into mytbl8_2 (userRole) values ('ABC');
+;
+insert into mytbl8_2 (userRole) values ('ABC');
+show triggers where name='mytbl8_2';
+DELIMITER;
+;
+show triggers where name='mytbl8_2';
+ 
+;
+CREATE TRIGGER mytbl8_2guard BEFORE INSERT ON mytbl8_2 FOR EACH ROW BEGIN IF NEW.userRole='ABC' THEN SIGNAL SQLSTATE '50000' SET message_text='Error!!'; END IF; END;$$
+show tables;
+DELIMITER ;
+show tables;
+show triggers like '%mytbl8_2' \134G
+insert into mytbl8_2(userRole) values('ABC');
+drop dtigger mytbl8_2guard;
+drop trigger mytbl8_2guard;
+DELIMITER $$
+CREATE TRIGGER mytbl8_2guard BEFORE INSERT ON mytbl8_2 FOR EACH ROW BEGIN SIGNAL SQLSTATE '50000' SET message_text='Error!!'; END IF; END;$$
+CREATE TRIGGER mytbl8_2guard BEFORE INSERT ON mytbl8_2 FOR EACH ROW BEGIN SIGNAL SQLSTATE '50000' SET message_text='Error!!'; END;$$
+drop trigger mytbl8_2guard;
+DELIMITER ;
+drop trigger mytbl8_2guard;
+DELIMITER $$
+CREATE TRIGGER mytbl8_2guard BEFORE INSERT ON mytbl8_2 FOR EACH ROW BEGIN SIGNAL SQLSTATE '50000' SET message_text; END;$$
+CREATE TRIGGER mytbl8_2guard BEFORE INSERT ON mytbl8_2 FOR EACH ROW BEGIN DECLARE a varcharvarchar(100); SELECT CURRENT_USER() INTO @a;SIGNAL SQLSTATE '50000' SET message_text; END;$$
+CREATE TRIGGER mytbl8_2guard BEFORE INSERT ON mytbl8_2 FOR EACH ROW BEGIN DECLARE a varchar(100); SELECT CURRENT_USER() INTO @a;SIGNAL SQLSTATE '50000' SET message_text; END;$$
+CREATE TRIGGER mytbl8_2guard BEFORE INSERT ON mytbl8_2 FOR EACH ROW BEGIN DECLARE a varchar(100); SELECT CURRENT_USER() INTO @a; SIGNAL SQLSTATE '50000' SET message_text=@a; END;$$
+DELIMITER ;
+insert into mytbl8_2(userRole) values('ABC');
+insert into mytbl8_2(userRole) values('adadadABC');
+exit;
+source script_1.sql;
+show databases;
+exit;
+source script_1.sql;
+exit;
