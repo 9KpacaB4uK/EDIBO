@@ -10,13 +10,19 @@ import {MatGridListModule} from '@angular/material/grid-list'
 import { MatSliderModule } from '@angular/material/slider';
 import { MatIconModule } from '@angular/material/icon';
 import { ButtonOverviewExample } from './buttons/button-overview-example';
-import { YouTubePlayerModule } from '@angular/youtube-player'
-import { MatVideoModule } from 'mat-video';
+import {MatSidenavModule} from '@angular/material/sidenav'; 
+import {MatButtonModule} from '@angular/material/button' 
+
+
+import {MatTableModule} from '@angular/material/table'; 
+import {TableBasicExample} from './table/table-basic-example'
+import {MatTabsModule} from '@angular/material/tabs'; 
 @NgModule({
   declarations: [
     AppComponent,
     GridListOverviewExample,
-    ButtonOverviewExample
+    ButtonOverviewExample,
+    TableBasicExample
   ],
   imports: [
     BrowserModule,
@@ -26,11 +32,13 @@ import { MatVideoModule } from 'mat-video';
     MatDividerModule,
     MatSliderModule,
     MatIconModule,
-    MatDividerModule,
-    MatVideoModule,
-    YouTubePlayerModule
+    MatSidenavModule,
+    MatButtonModule,
+    MatTabsModule,
+    MatTableModule
   ],
   providers: [],
-  bootstrap: [AppComponent]
+  bootstrap: [AppComponent, GridListOverviewExample,
+     ButtonOverviewExample, TableBasicExample]
 })
 export class AppModule { }

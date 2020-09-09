@@ -318,34 +318,18 @@
 <div class="content" role="main">
 
   <!-- Resources -->
-  <img src="https://www.freelogodesign.org/file/app/client/thumb/e930f0b7-4b2d-4ac5-ba0b-3ca79fe4a480_200x200.png?1599572871450" alt="logo">
-  <div class="card-container">
-    <div class="myVideo">
-      <mat-video src=""></mat-video>
-      <p class="videoName">nazvanie</p>
-    </div>
-    <div class="myVideo">
-      <mat-video src=""></mat-video>
-      <p class="videoName">nazvanie</p>
-    </div>
-    <div class="myVideo">
-      <mat-video src=""></mat-video>
-      <p class="videoName">nazvanie</p>
-    </div>
-    <div class="myVideo">
-      <mat-video src=""></mat-video>
-      <p class="videoName">nazvanie</p>
-    </div>
-    <div class="myVideo">
-      <mat-video src=""></mat-video>
-      <p class="videoName">nazvanie</p>
-    </div>
-    <div class="myVideo">
-      <mat-video src=""></mat-video>
-      <p class="videoName">nazvanie</p>
-    </div>
-  </div> 
-
+  <mat-sidenav-container >
+    <mat-tab-group>
+      <mat-tab label="First">
+        <img id="imageUpPage"src="https://www.freelogodesign.org/file/app/client/thumb/e930f0b7-4b2d-4ac5-ba0b-3ca79fe4a480_200x200.png?1599572871450" alt="logo">
+      </mat-tab>
+      <mat-tab label="Table">
+        <button class="b_menu" mat-raised-button color="accent" >Open table</button>
+        <table-basic-example></table-basic-example>
+      </mat-tab>
+      <mat-tab label="Third"> Content 3 </mat-tab>
+    </mat-tab-group>
+</mat-sidenav-container>
   <!-- Next Steps -->
  <!--<h2>Next Steps</h2>
   <p>What do you want to do next with your app?</p>
