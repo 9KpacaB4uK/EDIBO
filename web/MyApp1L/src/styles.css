@@ -6,3 +6,10 @@ body { margin: 0; font-family: Roboto, "Helvetica Neue", sans-serif; }
     text-align: center;
     display: inline-block;
 }
+.b_menu{
+    display: block !important;
+    background-color: lightblue !important;
+    padding: 10px !important;
+    width: 100% !important;
+    border: 1px solid black !important;
+  }

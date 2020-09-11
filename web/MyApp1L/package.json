@@ -22,7 +22,6 @@
     "@angular/platform-browser-dynamic": "~10.1.0",
     "@angular/router": "~10.1.0",
     "@angular/youtube-player": "^10.2.0",
-    "angular-in-memory-web-api": "^0.11.0",
     "mat-video": "^2.8.1",
     "rxjs": "~6.6.0",
     "tslib": "^2.0.0",

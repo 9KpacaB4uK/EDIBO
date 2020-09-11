@@ -19,7 +19,6 @@ const ELEMENT_DATA: PeriodicElement[] = [
   {position: 9, name: 'Fluorine', weight: 18.9984, symbol: 'F'},
   {position: 10, name: 'Neon', weight: 20.1797, symbol: 'Ne'},
 ];
-const ELEMENT_DATA_EMPTY: PeriodicElement[] = [];
 
 /**
  * @title Basic use of `<table mat-table>`
@@ -30,18 +29,8 @@ const ELEMENT_DATA_EMPTY: PeriodicElement[] = [];
   templateUrl: 'table-basic-example.html',
 })
 export class TableBasicExample {
-  isShow = false;
-  public buttonName:any = 'Show';
   displayedColumns: string[] = ['position', 'name', 'weight', 'symbol'];
-  dataSource = ELEMENT_DATA_EMPTY;
-  hidetable(){
-    this.isShow = !this.isShow;
-    if(this.isShow == true){
-      this.dataSource = ELEMENT_DATA;
-    }else{
-      this.dataSource = ELEMENT_DATA_EMPTY;
-    }
-  }
+  dataSource = ELEMENT_DATA;
 }
 
 

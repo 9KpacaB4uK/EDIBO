@@ -9,23 +9,20 @@ import {MatGridListModule} from '@angular/material/grid-list'
 // added manually
 import { MatSliderModule } from '@angular/material/slider';
 import { MatIconModule } from '@angular/material/icon';
+import { ButtonOverviewExample } from './buttons/button-overview-example';
 import {MatSidenavModule} from '@angular/material/sidenav'; 
 import {MatButtonModule} from '@angular/material/button' 
-import { HttpClientModule } from '@angular/common/http';
+
+
 import {MatTableModule} from '@angular/material/table'; 
 import {TableBasicExample} from './table/table-basic-example'
-import {MatTabsModule} from '@angular/material/tabs';
-import { GetUsersComponent } from './get-users/get-users.component';
-import { PostUsersComponent } from './post-users/post-users.component'; 
-import { HttpClientInMemoryWebApiModule } from 'angular-in-memory-web-api';
-
+import {MatTabsModule} from '@angular/material/tabs'; 
 @NgModule({
   declarations: [
     AppComponent,
     GridListOverviewExample,
-    TableBasicExample,
-    GetUsersComponent,
-    PostUsersComponent
+    ButtonOverviewExample,
+    TableBasicExample
   ],
   imports: [
     BrowserModule,
@@ -38,10 +35,10 @@ import { HttpClientInMemoryWebApiModule } from 'angular-in-memory-web-api';
     MatSidenavModule,
     MatButtonModule,
     MatTabsModule,
-    MatTableModule,
-    HttpClientModule
+    MatTableModule
   ],
   providers: [],
-  bootstrap: [AppComponent, GridListOverviewExample, TableBasicExample]
+  bootstrap: [AppComponent, GridListOverviewExample,
+     ButtonOverviewExample, TableBasicExample]
 })
 export class AppModule { }

@@ -1,0 +1,7 @@
+mat-grid-tile {
+  background: lightblue !important;
+  background-color: #ddd !important;
+  margin-left: auto !important;
+  margin-right: auto !important;
+  height: 100% !important;
+}
